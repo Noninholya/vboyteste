@@ -1,0 +1,33 @@
+body{
+    border-color:  rgb(223, 136, 226);
+    border-style: solid;
+    border-width: 25px;
+    background-color:rgba(169, 22, 189, 0.283);
+}
+
+h1{
+    color: rgb(235, 13, 13);
+    text-shadow: 2px 1px 1px  rgba(149, 75, 10, 0.739);
+    text-align: center;
+}
+
+h2{
+    color: rgb(230, 81, 210);
+    text-shadow: 2px 1px 1px  rgba(164, 14, 101, 0.739);
+    text-align: center;
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.button2{
+ 
+    background-color: rgb(218, 39, 173);
+    width: 140px;
+    height: 50px;
+    border: 3px solid rgba(212, 8, 117, 0.956);
+    border-radius: 5px;
+}
